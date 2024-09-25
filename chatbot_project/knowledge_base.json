@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {
+            "question": "hello",
+            "response": "How can i assist you!"
+        },
+        {
+            "question": "what is your name",
+            "response": "I am a chatbot"
+        },
+        {
+            "question": "do you know my name",
+            "response": "Yes, Salim"
+        },
+        {
+            "question": "tell me about you",
+            "response": "I am a bot"
+        },
+        {
+            "question": "capital of india",
+            "response": "\u0004elhi"
+        }
+    ]
+}
